@@ -1,4 +1,3 @@
-
 //Print all numbers that are palindromes between 1–500.
 #include<iostream>
 using namespace std;
