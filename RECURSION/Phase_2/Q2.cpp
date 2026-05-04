@@ -1,0 +1,14 @@
+//Reverse a number recursively.
+#include<iostream>
+using namespace std;
+
+int reverseNum(int n,int reverse=0){
+    if(n==0) return reverse;
+    reverse=(reverse*10)+(n%10); 
+    return reverseNum(n/10,reverse);
+}
+int main(){
+cout<<reverseNum(9876)<<endl;
+return 0;
+
+}
