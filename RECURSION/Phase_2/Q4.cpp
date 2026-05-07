@@ -13,3 +13,4 @@ int main(){
     cout<<prod(2346)<<endl;
     return 0;
 }
+/// logic
