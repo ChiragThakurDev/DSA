@@ -1,11 +1,12 @@
  //Input n and take n as interger as array and print them
 #include<iostream>
-#include<vector>
+// #include<vector>
 using namespace std;
 
 void check(int n){
     if(n<=0)return;
-    vector<int> arr(n);
+    // vector<int> arr(n);
+    int arr[n];
     cout << "Please enter " << n << " integers: " << endl;
     for(int i=0;i<n;i++){
            cin>>arr[i];
