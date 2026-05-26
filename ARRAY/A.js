@@ -25,3 +25,9 @@ for(let j=0;j<arr.length;j++){
     }
 }
 console.log(minVal);
+console.log("-----------------------------");
+let sum1=0;
+for(let k=0;k<arr.length;k++){
+    sum1+=arr[k];
+}
+console.log(sum1);
