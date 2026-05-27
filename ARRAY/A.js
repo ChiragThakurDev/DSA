@@ -31,3 +31,4 @@ for(let k=0;k<arr.length;k++){
     sum1+=arr[k];
 }
 console.log(sum1);
+console.log("mobile me kiya hai bidu");
