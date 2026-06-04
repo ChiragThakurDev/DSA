@@ -37,3 +37,4 @@ console.log("®");
 console.log("i don't know about you'")
 
 console.log("i don't know about you2'")
+console.log("""");
