@@ -32,7 +32,7 @@ int main() {
     // Print frequencies
     for(int i = 0; i <= maxVal; i++) {
         if(freq[i] > 0) {
-            std::cout << "Frequency of " << i
+            std::cout << "Frequency of " << arr[i]
                       << " = " << freq[i] << std::endl;
         }
     }
