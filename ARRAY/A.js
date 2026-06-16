@@ -43,4 +43,5 @@ console.log("Check your brain");
 console.log("testme")
 
 console.log("Mein asa kyu hu")
+console.log("gi")
 console.log("hi")
