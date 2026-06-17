@@ -44,4 +44,5 @@ console.log("testme")
 
 console.log("Mein asa kyu hu")
 console.log("gi")
+console.log("gu")
 console.log("hi")
