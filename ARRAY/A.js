@@ -46,3 +46,15 @@ console.log("Mein asa kyu hu")
 console.log("gi")
 console.log("gu")
 console.log("hi")
+
+
+for(let i=0;i<=10;i++){
+    if(i%3==0){
+
+        continue;
+
+    }
+    else{
+        console.log(i);
+    }
+}
