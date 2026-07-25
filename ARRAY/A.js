@@ -60,4 +60,9 @@ for(let i=0;i<=10;i++){
 }
 
 
+<<<<<<< HEAD
 console.log("hie how you")
+=======
+
+console.log("HEEEEE");
+>>>>>>> af658a9 (done)
