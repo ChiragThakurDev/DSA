@@ -74,3 +74,6 @@ console.log("Hey How are you!")
 
 
 console.log("how are typu");
+
+
+console.log("I am legend");
