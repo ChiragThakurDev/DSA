@@ -6,6 +6,7 @@ let sum=arr.reduce((val,acc)=>{
     return val+acc;
 },0);
 console.log(sum);
+console.log("ydjshe")
 console.log(sum/avg);
 let maxval =Math.max.apply(null,arr);
 let minval=Math.min.apply(null,arr);
