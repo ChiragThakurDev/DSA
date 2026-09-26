@@ -6,6 +6,7 @@ let sum=arr.reduce((val,acc)=>{
     return val+acc;
 },0);
 console.log(sum);
+console.log("ydjshe")
 console.log(sum/avg);
 let maxval =Math.max.apply(null,arr);
 let minval=Math.min.apply(null,arr);
@@ -106,3 +107,20 @@ console.log("dawd");
 conosle.log("wadawd");
 console.log("wwww");
 console.log("dwadaw");
+console.log("warr);
+console.log("uehehe")
+console.log("tueh")
+console.log("uejeh")
+console.log("wdad");
+console.log("adwdhawduhawd");
+console.log("wadaw");
+console.log("hgawfdw");
+console.log("dawdguawgd");
+console.log("dwadaw");
+console.log("awdaw");
+console.log("dawdawdawdawdwd");
+console.log("dawdaw");
+console.log(282737);
+console.log("awdawdawdawdawdwadawdawd");
+console.log("dawd");
+console.log("awdaaaa");
