@@ -10,5 +10,6 @@ int main(){
     cout<<"fesjf";
     cout<<"67788";
     cout<<"45678";
+    cout<<"ueuehe";
     return 0;
 }
