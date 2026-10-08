@@ -11,5 +11,6 @@ int main(){
     cout<<"67788";
     cout<<"45678";
     cout<<"ueuehe";
+    cout<<"yejeve";
     return 0;
 }
