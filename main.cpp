@@ -16,5 +16,6 @@ int main(){
     cout<<"7877";
     cout<<"7236373";
     cout<<"648";
+    cout<<"6789";
     return 0;
 }
