@@ -26,5 +26,6 @@ int main(){
     cout<<"7";
     cout<<"5";
     cout<<"577";
+    cout<<"34";
     return 0;
 }
