@@ -28,5 +28,6 @@ int main(){
     cout<<"577";
     cout<<"34";
     cout<<"78";
+    cout<<"6";
     return 0;
 }
