@@ -31,5 +31,6 @@ int main(){
     cout<<"678";
     cout<<"683";
     cout<<"89";
+    cout<<"627";
     return 0;
 }
