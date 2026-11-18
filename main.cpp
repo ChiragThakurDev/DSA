@@ -31,7 +31,7 @@ int main(){
     cout<<"678";
     cout<<"683";
     cout<<"89";
-    cout<<"627";
+    cout<<"6727";
     cout<<"ehje";
     cout<<"222";
     cout<<"235";
