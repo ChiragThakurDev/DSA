@@ -26,7 +26,7 @@ int main(){
     cout<<"7";
     cout<<"5";
     cout<<"5773";
-    cout<<"34";
+    cout<<"134";
     cout<<"78";
     cout<<"678";
     cout<<"683";
