@@ -37,5 +37,6 @@ int main(){
     cout<<"235";
     cout<<"55";
     cout<<"5677";
+    cout<<"6755";
     return 0;
 }
