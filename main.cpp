@@ -38,5 +38,6 @@ int main(){
     cout<<"55";
     cout<<"5677";
     cout<<"67755";
+    cout<<"yuio";
     return 0;
 }
