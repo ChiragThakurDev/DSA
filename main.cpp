@@ -37,7 +37,11 @@ int main(){
     cout<<"235";
     cout<<"55";
     cout<<"5677";
+<<<<<<< Updated upstream
     cout<<"67755";
     cout<<"yuio";
+=======
+    cout<<"667755";
+>>>>>>> Stashed changes
     return 0;
 }
