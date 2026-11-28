@@ -29,7 +29,7 @@ int main(){
     cout<<"134";
     cout<<"78";
     cout<<"678";
-    cout<<"683";
+    cout<<"683666";
     cout<<"89";
     cout<<"6727";
     cout<<"ehje";
